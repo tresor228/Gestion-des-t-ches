@@ -1,0 +1,37 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Définir la structure des tâches",
+        "description": "Créer la structure des tâches avec les champs nécessaires : ID, titre, description, statut",
+        "status": "completed",
+        "created_at": "2025-01-10T08:00:00Z",
+        "updated_at": "2025-01-11T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "title": "Ajouter une tâche",
+        "description": "Implémenter la fonctionnalité pour ajouter une nouvelle tâche au système",
+        "status": "in_progress",
+        "created_at": "2025-01-12T09:00:00Z",
+        "updated_at": null
+      },
+      {
+        "id": 3,
+        "title": "Afficher la liste des tâches",
+        "description": "Afficher toutes les tâches existantes avec leurs détails (titre, description, statut, etc.)",
+        "status": "pending",
+        "created_at": "2025-01-13T10:00:00Z",
+        "updated_at": null
+      },
+      {
+        "id": 4,
+        "title": "Marquer une tâche comme terminée",
+        "description": "Mettre à jour une tâche existante pour changer son statut en 'terminée'",
+        "status": "pending",
+        "created_at": "2025-01-13T15:00:00Z",
+        "updated_at": null
+      }
+    ]
+  }
+  
